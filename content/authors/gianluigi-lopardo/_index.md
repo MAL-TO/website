@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Marco Gullotto"
+title: "Gianluigi Lopardo"
 
 # Username (this should match the folder name and the name on publications)
 authors:

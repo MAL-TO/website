@@ -1,10 +1,10 @@
 ---
 # Display name
-title: "Marco Gullotto"
+title: "Niccolò Cavagnero"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "marco-gullotto"
+- "niccolo-cavagnero"
 
 # Is this the primary user of the site?
 superuser: false
