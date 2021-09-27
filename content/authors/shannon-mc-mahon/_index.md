@@ -29,11 +29,11 @@ interests:
 education:
   courses:
   - course: MSc Data Science and Engineering
-      institution: Politecnico di Torino
-      year: 2020-2022
-    - course: BSc Mathematics for Engineering
-      institution: Politecnico di Torino
-      year: 2016-2020
+    institution: Politecnico di Torino
+    year: 2020-2022
+  - course: BSc Mathematics for Engineering
+    institution: Politecnico di Torino
+    year: 2016-2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
