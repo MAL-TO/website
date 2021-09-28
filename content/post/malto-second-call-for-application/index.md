@@ -30,7 +30,7 @@ projects: []
 
 The second Call for Application is open! **The deadline is October 15, 2021 at 23:59 CEST.**
 
-Applicants should send an email to [flavio.giorbegia@polito.it](mailto:flavio.giobergia@polito.it) with subject
+Applicants should send an email to [flavio.giobergia@polito.it](mailto:flavio.giobergia@polito.it) with subject
 "Application to MALTO". Please attach:
 - a motivational letter;
 - your CV, including BSc and MSc courses attended (with exam grades).
