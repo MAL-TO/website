@@ -28,6 +28,9 @@ image:
 projects: []
 ---
 
+
+<div style="text-align: justify">
+
 ## 2nd Call for Applications
 The field of data science is becoming increasingly more important in our everyday life. In particular, at Politecnico di Torino, we strive to become national and international leaders in the field. To this end, last year we introduced MALTO (MAchine Learning @ poliTO).
 
@@ -55,3 +58,4 @@ Applicants should send an email to [flavio.giobergia@polito.it](mailto:flavio.gi
 - your CV, including BSc and MSc courses attended (with exam grades).
 
 Stay tuned to know more!
+</div>
